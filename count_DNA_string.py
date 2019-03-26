@@ -1,0 +1,5 @@
+x = input("Enter DNA string : ").upper()
+total = len(x)
+A = x.count("A")
+print(A)
+print(total)
